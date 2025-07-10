@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "category": "History",
+        "start_date": "2024-03-01",
+        "end_date": "2024-03-15",
+        "rating": 9,
+        "notes": "Very thought-provoking.",
+        "quotes": [
+            "Cognitive revolution is key."
+        ]
+    },
+    {
+        "title": "Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "start_date": "2005-05-14",
+        "end_date": "2005-07-27",
+        "rating": 10,
+        "notes": "A masterpiece of fantasy literature.",
+        "quotes": [
+            "You shall not pass!"
+        ]
+    }
+]
